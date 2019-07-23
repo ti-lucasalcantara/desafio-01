@@ -1,0 +1,16 @@
+{
+  "name": "01",
+  "version": "1",
+  "description": "Desafio 01 - Bootcamp rocket seat",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Lucas Alcântara",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
